@@ -1,0 +1,8 @@
+{
+  "name": "English Academy Blueprint for Squarespace",
+  "description": "A high-fidelity website template and implementation guide for an English language school, specifically designed for Squarespace compatibility with a modern blue-themed educational aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
